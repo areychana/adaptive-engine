@@ -11,7 +11,7 @@ via the Anthropic Claude API.
 
 ### 1. Clone & install dependencies
 ```bash
-git clone https://github.com/<your-username>/adaptive-engine.git
+git clone https://github.com/areychana/adaptive-engine.git
 cd adaptive-engine
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
