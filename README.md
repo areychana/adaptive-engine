@@ -1,6 +1,7 @@
 # Adaptive Diagnostic Engine
 
-A **1-Dimension Adaptive Testing** system built for the HighScores.ai internship assignment.
+A **1-Dimension Adaptive Testing** system built for the Ed-Tech internship assignment. 
+(Note: Take Home assignment that explicitly required integrating AI tools into the workflow)
 Dynamically selects GRE-style questions based on a student's real-time estimated ability using
 **Item Response Theory (Rasch Model)** and generates a personalized **AI-powered study plan**
 via the Anthropic Claude API.
